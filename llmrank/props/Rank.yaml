@@ -1,9 +1,12 @@
 # OpenAI API
 api_name: 'gpt-3.5-turbo'
+# api_name: 'deepseek-v3'
 max_tokens: 512
 api_batch: 8
 temperature: 0.2
 async_dispatch: True
+# 免费token限制-->False
+# async_dispatch: False
 boots: 0
 # Others
 max_his_len: 50

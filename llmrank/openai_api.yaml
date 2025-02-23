@@ -1,2 +1,7 @@
+# GPT API
 api_base: "https://api.openai.com/v1"
 api_key: ""
+
+#Deepseek_api
+# api_base: "https://api.lkeap.tencentclouda.com/v1"
+# api_key: ""
